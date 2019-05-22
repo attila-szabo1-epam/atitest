@@ -1,1 +1,1 @@
-# atitest
+This is just a docker-compose for actual jenkins version with persistent home , in order to be able to use it test various pipelines.Otherwise some really basic bash, node,js etc to have something to test in jenkins.
